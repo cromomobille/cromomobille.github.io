@@ -1,0 +1,88 @@
+.status {
+  background-color: cornflowerblue;
+  color: #fff;
+  position: fixed;
+  bottom: 0px;
+  left: 25%;
+  width: 50%;
+  text-align: center;
+  border-radius: 2px;
+}
+
+body {
+  background: #ddd !important;
+  padding-bottom: 50px;
+}
+
+input {
+  margin: 5px 5px !important;
+  padding: 5px;
+  text-align: center;
+}
+
+select {
+  padding: 5px;
+}
+
+#content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.protocol {
+  padding: 20px;
+  border: 1px solid #777;
+  box-shadow: 3px 6px 6px rgba(30,30,30,0.2);
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 50px;
+  width: 80%;
+  max-width: 600px;
+
+  text-align: center !important;
+}
+
+.title-protocol {
+  width: 80%;
+  font-weight: bold;
+}
+
+.title-chackra {
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.time-select {
+  width: 50px;
+}
+
+.group-chackras {
+  padding: 10px 0px;
+  margin: 5px 0;
+  width: 100%;
+  text-align: center;
+}
+
+.group-colors {
+}
+
+.button {
+  border: 1px solid #888;
+  padding: 5px 10px;  
+}
+
+.button-red {
+  background-color: crimson;
+  color: #fff;
+}
+
+.button-green {
+  background-color: mediumseagreen;
+  color: #fff;
+}
+
+.button-full {
+  width: 50%;
+}
