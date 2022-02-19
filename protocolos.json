@@ -1,27 +1,27 @@
 ﻿{
-    "tratamentos": [
+    "treatments": [
         {
             "title": "Articulação, Sistema Ósseo e Muscular",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Genésico",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         }
                     ]
                 }
@@ -29,47 +29,47 @@
         },
         {
             "title": "Orgãos Reprodutores",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Genésico",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Gástrico",
-                    "cores": [
+                    "name": "Chackra Gástrico",
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         }
                     ]
                 }
@@ -77,80 +77,80 @@
         },
         {
             "title": "Aparelho Urinário",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
-                    "nome": "Chackra Gástrico",
-                    "cores": [
+                    "name": "Chackra Gástrico",
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         }
                     ]
                 },
                 {
                     "name": "Chackra Genésico",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 30
+                            "color": "red",
+                            "time": 30
                         }
                     ]
                 }
@@ -158,47 +158,47 @@
         },
         {
             "title": "Aparelho Digestório ou Sistema digestivo",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Gástrico",
-                    "cores": [
+                    "name": "Chackra Gástrico",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor laranja",
-                            "tempo": 30
+                            "color": "orange",
+                            "time": 30
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
@@ -206,150 +206,150 @@
         },
         {
             "title": "Sistema circulatório e cadíaco",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
-                    "nome": "Chackra Cardíaco",
-                    "cores": [
+                    "name": "Chackra Cardíaco",
+                    "colors": [
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "Sistema avançado",
-            "editável": false,
-            "chacras": [
+            "title": "Sistema respiratório",
+            "editable": false,
+            "chackras": [
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 30
+                            "color": "blue",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Cardíaco",
-                    "cores": [
+                    "name": "Chackra Cardíaco",
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 30
+                            "color": "blue",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
                     "name": "Chackra Frontal",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 30
+                            "color": "blue",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
                     "name": "Chackra Coronário",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 30
+                            "color": "blue",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 30
+                            "color": "blue",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
@@ -357,56 +357,56 @@
         },
         {
             "title": "Olhos, Nariz, ouvidos e garganta",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Frontal",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
@@ -414,251 +414,251 @@
         },
         {
             "title": "Lesões de pele",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Sobre a lesão",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         },
                         {
-                            "cor vermelha",
-                            "tempo": 60
+                            "color": "red",
+                            "time": 60
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "Alterações dinâmicas",
-            "editável": false,
-            "chacras": [
+            "title": "Alterações emocionais",
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Frontal",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Cardíaco",
-                    "cores": [
+                    "name": "Chackra Cardíaco",
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
                     "name": "Chackra Coronário",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 30
+                            "color": "green",
+                            "time": 30
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "Doenças auto-imunes e transplantados",
-            "editável": false,
-            "chacras": [
+            "title": "Doenças auto-imune e transplantados",
+            "editable": false,
+            "chackras": [
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Cardíaco",
-                    "cores": [
+                    "name": "Chackra Cardíaco",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
                     "name": "Chackra Frontal",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
                     "name": "Chackra Coronário",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 }
@@ -667,39 +667,39 @@
 
         {
             "title": "Alzheimer e Epilepsia",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Coronário",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 }
@@ -707,119 +707,119 @@
         },
         {
             "title": "Tumores / Câncer",
-            "editável": false,
-            "chacras": [
+            "editable": false,
+            "chackras": [
                 {
                     "name": "Chackra Coronário",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor": "violeta",
-                            "tempo": 60
+                            "color": "violet",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 30
+                            "color": "yellow",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
                     "name": "Chackra Frontal",
-                    "cores": [
+                    "colors": [
                         {
-                            "cor azul",
-                            "tempo": 60
+                            "color": "blue",
+                            "time": 60
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 30
+                            "color": "sky",
+                            "time": 30
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Laríngeo",
-                    "cores": [
+                    "name": "Chackra Laríngeo",
+                    "colors": [
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Cardíaco",
-                    "cores": [
+                    "name": "Chackra Cardíaco",
+                    "colors": [
                         {
-                            "cor verde",
-                            "tempo": 60
+                            "color": "green",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Esplênico",
-                    "cores": [
+                    "name": "Chackra Esplênico",
+                    "colors": [
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 },
                 {
-                    "nome": "Chackra Gástrico",
-                    "cores": [
+                    "name": "Chackra Gástrico",
+                    "colors": [
                         {
-                            "cor laranja",
-                            "tempo": 60
+                            "color": "orange",
+                            "time": 60
                         },
                         {
-                            "cor": "violeta",
-                            "tempo": 30
+                            "color": "violet",
+                            "time": 30
                         },
                         {
-                            "cor amarela",
-                            "tempo": 60
+                            "color": "yellow",
+                            "time": 60
                         },
                         {
-                            "cor": "céu",
-                            "tempo": 60
+                            "color": "sky",
+                            "time": 60
                         }
                     ]
                 }
