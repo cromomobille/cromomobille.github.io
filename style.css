@@ -12,6 +12,7 @@
 body {
   background: #ddd !important;
   padding-bottom: 50px;
+  text-align: center !important;
 }
 
 input {
@@ -80,6 +81,11 @@ select {
 
 .button-green {
   background-color: mediumseagreen;
+  color: #fff;
+}
+
+.button-blue {
+  background-color: deepskyblue;
   color: #fff;
 }
 

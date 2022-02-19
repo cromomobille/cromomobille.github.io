@@ -1,3 +1,25 @@
+function download() {
+  let data = JSON.stringify({ treatments: dados })
+  let type = "text/json"
+  let filename = "protocolos.json"
+
+  var file = new Blob([data], {type: type});
+  if (window.navigator.msSaveOrOpenBlob) // IE10+
+      window.navigator.msSaveOrOpenBlob(file, filename);
+  else { // Others
+      var a = document.createElement("a"),
+              url = URL.createObjectURL(file);
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function() {
+          document.body.removeChild(a);
+          window.URL.revokeObjectURL(url);  
+      }, 0); 
+  }
+}
+
 var ProtocolBase = `
   <div class="protocol" id="protocol_#PROTOCOL_INDEX#">
     <input 
@@ -131,11 +153,6 @@ dados = dados.treatments
 
 function RenderData() {
   document.getElementById("content").innerHTML = ButtonAddProtocol
-
-  let final = { treatments: dados }
-  document.getElementById("content").innerHTML += `
-    <textarea>${ JSON.stringify(final) }</textarea>
-  `
 
   dados.map(( protocol, protocol_index ) => {
     let protocolItem = Protocol(protocol.title, protocol_index)
